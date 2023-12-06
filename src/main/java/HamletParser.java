@@ -14,12 +14,12 @@ public class HamletParser {
     private String newData;
 
     public HamletParser(){
-        this.hamletData = loadFile();
+        this.hamletData = loadFile("hamlet.txt");
     }
 
-    private String loadFile(){
+    public String loadFile(String fileName){
         ClassLoader classLoader = getClass().getClassLoader();
-        File file = new File(classLoader.getResource("hamlet.txt").getFile());
+        File file = new File(classLoader.getResource(fileName).getFile());
         StringBuilder result = new StringBuilder("");
 
         try(Scanner scanner = new Scanner(file)){
@@ -80,10 +80,10 @@ public class HamletParser {
         return count;
     }
 
-    public boolean exportNewFile(String export){ // Should I make a MainApplication?
+    public boolean exportNewFile(String exportString){ // Should I make a MainApplication?
         try{
-            PrintWriter fileOut = new PrintWriter("resources/output.txt");
-            fileOut.println();
+            PrintWriter fileOut = new PrintWriter("src/main/resources/output.txt");
+            fileOut.println(exportString);
             fileOut.close();
         }
         catch (IOException e) {
