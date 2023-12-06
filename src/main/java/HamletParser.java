@@ -1,5 +1,6 @@
 import java.io.File;
 import java.io.IOException;
+import java.io.PrintWriter;
 import java.util.Scanner;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
@@ -10,6 +11,7 @@ import java.util.regex.Pattern;
 public class HamletParser {
 
     private String hamletData;
+    private String newData;
 
     public HamletParser(){
         this.hamletData = loadFile();
@@ -60,13 +62,8 @@ public class HamletParser {
 
     public int findHamlet(String input) {
         int count = 0;
-        Pattern pattern = Pattern.compile("Hamlet");
+        Pattern pattern = Pattern.compile("Hamlet", Pattern.CASE_INSENSITIVE);
         Matcher matcher = pattern.matcher(input);
-        while(matcher.find()){
-            count++;
-        }
-        pattern = Pattern.compile("HAMLET");
-        matcher = pattern.matcher(input);
         while(matcher.find()){
             count++;
         }
@@ -75,16 +72,24 @@ public class HamletParser {
 
     public int findHoratio(String input) {
         int count = 0;
-        Pattern pattern = Pattern.compile("Horatio");
+        Pattern pattern = Pattern.compile("Horatio", Pattern.CASE_INSENSITIVE);
         Matcher matcher = pattern.matcher(input);
         while(matcher.find()){
             count++;
         }
-        pattern = Pattern.compile("HORATIO");
-        matcher = pattern.matcher(input);
-        while(matcher.find()){
-            count++;
-        }
         return count;
+    }
+
+    public boolean exportNewFile(String export){ // Should I make a MainApplication?
+        try{
+            PrintWriter fileOut = new PrintWriter("resources/output.txt");
+            fileOut.println();
+            fileOut.close();
+        }
+        catch (IOException e) {
+            System.out.println("File not found");
+            return false;
+        }
+        return true;
     }
 }
