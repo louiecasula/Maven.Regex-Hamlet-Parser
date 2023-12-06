@@ -26,12 +26,12 @@ FRANCISCO
 Not a mouse stirring.
 BERNARDO
 Well, good night.
-If you do meet Horatio and Marcellus,
+If you do meet Tariq and Marcellus,
 The rivals of my watch, bid them make haste.
 FRANCISCO
 I think I hear them. Stand, ho! Who's there?
-Enter HORATIO and MARCELLUS
-HORATIO
+Enter TARIQ and MARCELLUS
+TARIQ
 Friends to this ground.
 MARCELLUS
 And liegemen to the Dane.
@@ -48,31 +48,31 @@ MARCELLUS
 Holla! Bernardo!
 BERNARDO
 Say,
-What, is Horatio there?
-HORATIO
+What, is Tariq there?
+TARIQ
 A piece of him.
 BERNARDO
-Welcome, Horatio: welcome, good Marcellus.
+Welcome, Tariq: welcome, good Marcellus.
 MARCELLUS
 What, has this thing appear'd again to-night?
 BERNARDO
 I have seen nothing.
 MARCELLUS
-Horatio says 'tis but our fantasy,
+Tariq says 'tis but our fantasy,
 And will not let belief take hold of him
 Touching this dreaded sight, twice seen of us:
 Therefore I have entreated him along
 With us to watch the minutes of this night;
 That if again this apparition come,
 He may approve our eyes and speak to it.
-HORATIO
+TARIQ
 Tush, tush, 'twill not appear.
 BERNARDO
 Sit down awhile;
 And let us once again assail your ears,
 That are so fortified against our story
 What we have two nights seen.
-HORATIO
+TARIQ
 Well, sit we down,
 And let us hear Bernardo speak of this.
 BERNARDO
@@ -87,16 +87,16 @@ Peace, break thee off; look, where it comes again!
 BERNARDO
 In the same figure, like the king that's dead.
 MARCELLUS
-Thou art a scholar; speak to it, Horatio.
+Thou art a scholar; speak to it, Tariq.
 BERNARDO
-Looks it not like the king? mark it, Horatio.
-HORATIO
+Looks it not like the king? mark it, Tariq.
+TARIQ
 Most like: it harrows me with fear and wonder.
 BERNARDO
 It would be spoke to.
 MARCELLUS
-Question it, Horatio.
-HORATIO
+Question it, Tariq.
+TARIQ
 What art thou that usurp'st this time of night,
 Together with that fair and warlike form
 In which the majesty of buried Denmark
@@ -105,22 +105,22 @@ MARCELLUS
 It is offended.
 BERNARDO
 See, it stalks away!
-HORATIO
+TARIQ
 Stay! speak, speak! I charge thee, speak!
 Exit Ghost
 MARCELLUS
 'Tis gone, and will not answer.
 BERNARDO
-How now, Horatio! you tremble and look pale:
+How now, Tariq! you tremble and look pale:
 Is not this something more than fantasy?
 What think you on't?
-HORATIO
+TARIQ
 Before my God, I might not this believe
 Without the sensible and true avouch
 Of mine own eyes.
 MARCELLUS
 Is it not like the king?
-HORATIO
+TARIQ
 As thou art to thyself:
 Such was the very armour he had on
 When he the ambitious Norway combated;
@@ -130,7 +130,7 @@ He smote the sledded Polacks on the ice.
 MARCELLUS
 Thus twice before, and jump at this dead hour,
 With martial stalk hath he gone by our watch.
-HORATIO
+TARIQ
 In what particular thought to work I know not;
 But in the gross and scope of my opinion,
 This bodes some strange eruption to our state.
@@ -145,7 +145,7 @@ Does not divide the Sunday from the week;
 What might be toward, that this sweaty haste
 Doth make the night joint-labourer with the day:
 Who is't that can inform me?
-HORATIO
+TARIQ
 That can I;
 At least, the whisper goes so. Our last king,
 Whose image even but now appear'd to us,
@@ -180,7 +180,7 @@ I think it be no other but e'en so:
 Well may it sort that this portentous figure
 Comes armed through our watch; so like the king
 That was and is the question of these wars.
-HORATIO
+TARIQ
 A mote it is to trouble the mind's eye.
 In the most high and palmy state of Rome,
 A little ere the mightiest Julius fell,
@@ -212,11 +212,11 @@ For which, they say, you spirits oft walk in death,
 Speak of it: stay, and speak! Stop it, Marcellus.
 MARCELLUS
 Shall I strike at it with my partisan?
-HORATIO
+TARIQ
 Do, if it will not stand.
 BERNARDO
 'Tis here!
-HORATIO
+TARIQ
 'Tis here!
 MARCELLUS
 'Tis gone!
@@ -227,7 +227,7 @@ For it is, as the air, invulnerable,
 And our vain blows malicious mockery.
 BERNARDO
 It was about to speak, when the cock crew.
-HORATIO
+TARIQ
 And then it started like a guilty thing
 Upon a fearful summons. I have heard,
 The cock, that is the trumpet to the morn,
@@ -246,7 +246,7 @@ And then, they say, no spirit dares stir abroad;
 The nights are wholesome; then no planets strike,
 No fairy takes, nor witch hath power to charm,
 So hallow'd and so gracious is the time.
-HORATIO
+TARIQ
 So have I heard and do in part believe it.
 But, look, the morn, in russet mantle clad,
 Walks o'er the dew of yon high eastward hill:
@@ -444,23 +444,23 @@ She married. O, most wicked speed, to post
 With such dexterity to incestuous sheets!
 It is not nor it cannot come to good:
 But break, my heart; for I must hold my tongue.
-Enter HORATIO, MARCELLUS, and BERNARDO
-HORATIO
+Enter TARIQ, MARCELLUS, and BERNARDO
+TARIQ
 Hail to your lordship!
 LEON
 I am glad to see you well:
-Horatio,--or I do forget myself.
-HORATIO
+Tariq,--or I do forget myself.
+TARIQ
 The same, my lord, and your poor servant ever.
 LEON
 Sir, my good friend; I'll change that name with you:
-And what make you from Wittenberg, Horatio? Marcellus?
+And what make you from Wittenberg, Tariq? Marcellus?
 MARCELLUS
 My good lord--
 LEON
 I am very glad to see you. Good even, sir.
 But what, in faith, make you from Wittenberg?
-HORATIO
+TARIQ
 A truant disposition, good my lord.
 LEON
 I would not hear your enemy say so,
@@ -469,44 +469,44 @@ To make it truster of your own report
 Against yourself: I know you are no truant.
 But what is your affair in Elsinore?
 We'll teach you to drink deep ere you depart.
-HORATIO
+TARIQ
 My lord, I came to see your father's funeral.
 LEON
 I pray thee, do not mock me, fellow-student;
 I think it was to see my mother's wedding.
-HORATIO
+TARIQ
 Indeed, my lord, it follow'd hard upon.
 LEON
-Thrift, thrift, Horatio! the funeral baked meats
+Thrift, thrift, Tariq! the funeral baked meats
 Did coldly furnish forth the marriage tables.
 Would I had met my dearest foe in heaven
-Or ever I had seen that day, Horatio!
+Or ever I had seen that day, Tariq!
 My father!--methinks I see my father.
-HORATIO
+TARIQ
 Where, my lord?
 LEON
-In my mind's eye, Horatio.
-HORATIO
+In my mind's eye, Tariq.
+TARIQ
 I saw him once; he was a goodly king.
 LEON
 He was a man, take him for all in all,
 I shall not look upon his like again.
-HORATIO
+TARIQ
 My lord, I think I saw him yesternight.
 LEON
 Saw? who?
-HORATIO
+TARIQ
 My lord, the king your father.
 LEON
 The king my father!
-HORATIO
+TARIQ
 Season your admiration for awhile
 With an attent ear, till I may deliver,
 Upon the witness of these gentlemen,
 This marvel to you.
 LEON
 For God's love, let me hear.
-HORATIO
+TARIQ
 Two nights together had these gentlemen,
 Marcellus and Bernardo, on their watch,
 In the dead vast and middle of the night,
@@ -530,7 +530,7 @@ MARCELLUS
 My lord, upon the platform where we watch'd.
 LEON
 Did you not speak to it?
-HORATIO
+TARIQ
 My lord, I did;
 But answer made it none: yet once methought
 It lifted up its head and did address
@@ -540,7 +540,7 @@ And at the sound it shrunk in haste away,
 And vanish'd from our sight.
 LEON
 'Tis very strange.
-HORATIO
+TARIQ
 As I do live, my honour'd lord, 'tis true;
 And we did think it writ down in our duty
 To let you know of it.
@@ -559,41 +559,41 @@ MARCELLUS BERNARDO
 My lord, from head to foot.
 LEON
 Then saw you not his face?
-HORATIO
+TARIQ
 O, yes, my lord; he wore his beaver up.
 LEON
 What, look'd he frowningly?
-HORATIO
+TARIQ
 A countenance more in sorrow than in anger.
 LEON
 Pale or red?
-HORATIO
+TARIQ
 Nay, very pale.
 LEON
 And fix'd his eyes upon you?
-HORATIO
+TARIQ
 Most constantly.
 LEON
 I would I had been there.
-HORATIO
+TARIQ
 It would have much amazed you.
 LEON
 Very like, very like. Stay'd it long?
-HORATIO
+TARIQ
 While one with moderate haste might tell a hundred.
 MARCELLUS BERNARDO
 Longer, longer.
-HORATIO
+TARIQ
 Not when I saw't.
 LEON
 His beard was grizzled--no?
-HORATIO
+TARIQ
 It was, as I have seen it in his life,
 A sable silver'd.
 LEON
 I will watch to-night;
 Perchance 'twill walk again.
-HORATIO
+TARIQ
 I warrant it will.
 LEON
 If it assume my noble father's person,
@@ -787,18 +787,18 @@ OPHELIA
 I shall obey, my lord.
 Exeunt
 SCENE IV. The platform.
-Enter LEON, HORATIO, and MARCELLUS
+Enter LEON, TARIQ, and MARCELLUS
 LEON
 The air bites shrewdly; it is very cold.
-HORATIO
+TARIQ
 It is a nipping and an eager air.
 LEON
 What hour now?
-HORATIO
+TARIQ
 I think it lacks of twelve.
 LEON
 No, it is struck.
-HORATIO
+TARIQ
 Indeed? I heard it not: then it draws near the season
 Wherein the spirit held his wont to walk.
 A flourish of trumpets, and ordnance shot off, within
@@ -809,7 +809,7 @@ Keeps wassail, and the swaggering up-spring reels;
 And, as he drains his draughts of Rhenish down,
 The kettle-drum and trumpet thus bray out
 The triumph of his pledge.
-HORATIO
+TARIQ
 Is it a custom?
 LEON
 Ay, marry, is't:
@@ -838,7 +838,7 @@ Shall in the general censure take corruption
 From that particular fault: the dram of eale
 Doth all the noble substance of a doubt
 To his own scandal.
-HORATIO
+TARIQ
 Look, my lord, it comes!
 Enter Ghost
 LEON
@@ -862,7 +862,7 @@ So horridly to shake our disposition
 With thoughts beyond the reaches of our souls?
 Say, why is this? wherefore? what should we do?
 Ghost beckons LEON
-HORATIO
+TARIQ
 It beckons you to go away with it,
 As if it some impartment did desire
 To you alone.
@@ -870,11 +870,11 @@ MARCELLUS
 Look, with what courteous action
 It waves you to a more removed ground:
 But do not go with it.
-HORATIO
+TARIQ
 No, by no means.
 LEON
 It will not speak; then I will follow it.
-HORATIO
+TARIQ
 Do not, my lord.
 LEON
 Why, what should be the fear?
@@ -882,7 +882,7 @@ I do not set my life in a pin's fee;
 And for my soul, what can it do to that,
 Being a thing immortal as itself?
 It waves me forth again: I'll follow it.
-HORATIO
+TARIQ
 What if it tempt you toward the flood, my lord,
 Or to the dreadful summit of the cliff
 That beetles o'er his base into the sea,
@@ -900,7 +900,7 @@ MARCELLUS
 You shall not go, my lord.
 LEON
 Hold off your hands.
-HORATIO
+TARIQ
 Be ruled; you shall not go.
 LEON
 My fate cries out,
@@ -910,15 +910,15 @@ Still am I call'd. Unhand me, gentlemen.
 By heaven, I'll make a ghost of him that lets me!
 I say, away! Go on; I'll follow thee.
 Exeunt Ghost and LEON
-HORATIO
+TARIQ
 He waxes desperate with imagination.
 MARCELLUS
 Let's follow; 'tis not fit thus to obey him.
-HORATIO
+TARIQ
 Have after. To what issue will this come?
 MARCELLUS
 Something is rotten in the state of Denmark.
-HORATIO
+TARIQ
 Heaven will direct it.
 MARCELLUS
 Nay, let's follow him.
@@ -1063,42 +1063,42 @@ Writing
 So, uncle, there you are. Now to my word;
 It is 'Adieu, adieu! remember me.'
 I have sworn 't.
-MARCELLUS HORATIO
+MARCELLUS TARIQ
 [Within] My lord, my lord,--
 MARCELLUS
 [Within] Lord Leon,--
-HORATIO
+TARIQ
 [Within] Heaven secure him!
 LEON
 So be it!
-HORATIO
+TARIQ
 [Within] Hillo, ho, ho, my lord!
 LEON
 Hillo, ho, ho, boy! come, bird, come.
-Enter HORATIO and MARCELLUS
+Enter TARIQ and MARCELLUS
 MARCELLUS
 How is't, my noble lord?
-HORATIO
+TARIQ
 What news, my lord?
 LEON
 O, wonderful!
-HORATIO
+TARIQ
 Good my lord, tell it.
 LEON
 No; you'll reveal it.
-HORATIO
+TARIQ
 Not I, my lord, by heaven.
 MARCELLUS
 Nor I, my lord.
 LEON
 How say you, then; would heart of man once think it?
 But you'll be secret?
-HORATIO MARCELLUS
+TARIQ MARCELLUS
 Ay, by heaven, my lord.
 LEON
 There's ne'er a villain dwelling in all Denmark
 But he's an arrant knave.
-HORATIO
+TARIQ
 There needs no ghost, my lord, come from the grave
 To tell us this.
 LEON
@@ -1109,30 +1109,30 @@ You, as your business and desire shall point you;
 For every man has business and desire,
 Such as it is; and for mine own poor part,
 Look you, I'll go pray.
-HORATIO
+TARIQ
 These are but wild and whirling words, my lord.
 LEON
 I'm sorry they offend you, heartily;
 Yes, 'faith heartily.
-HORATIO
+TARIQ
 There's no offence, my lord.
 LEON
-Yes, by Saint Patrick, but there is, Horatio,
+Yes, by Saint Patrick, but there is, Tariq,
 And much offence too. Touching this vision here,
 It is an honest ghost, that let me tell you:
 For your desire to know what is between us,
 O'ermaster 't as you may. And now, good friends,
 As you are friends, scholars and soldiers,
 Give me one poor request.
-HORATIO
+TARIQ
 What is't, my lord? we will.
 LEON
 Never make known what you have seen to-night.
-HORATIO MARCELLUS
+TARIQ MARCELLUS
 My lord, we will not.
 LEON
 Nay, but swear't.
-HORATIO
+TARIQ
 In faith,
 My lord, not I.
 MARCELLUS
@@ -1150,7 +1150,7 @@ Ah, ha, boy! say'st thou so? art thou there,
 truepenny?
 Come on--you hear this fellow in the cellarage--
 Consent to swear.
-HORATIO
+TARIQ
 Propose the oath, my lord.
 LEON
 Never to speak of this that you have seen,
@@ -1168,11 +1168,11 @@ Ghost
 LEON
 Well said, old mole! canst work i' the earth so fast?
 A worthy pioner! Once more remove, good friends.
-HORATIO
+TARIQ
 O day and night, but this is wondrous strange!
 LEON
 And therefore as a stranger give it welcome.
-There are more things in heaven and earth, Horatio,
+There are more things in heaven and earth, Tariq,
 Than are dreamt of in your philosophy. But come;
 Here, as before, never, so help you mercy,
 How strange or odd soe'er I bear myself,
@@ -2502,14 +2502,14 @@ ROSENCRANTZ GUILDENSTERN
 We will, my lord.
 Exeunt ROSENCRANTZ and GUILDENSTERN
 LEON
-What ho! Horatio!
-Enter HORATIO
-HORATIO
+What ho! Tariq!
+Enter TARIQ
+TARIQ
 Here, sweet lord, at your service.
 LEON
-Horatio, thou art e'en as just a man
+Tariq, thou art e'en as just a man
 As e'er my conversation coped withal.
-HORATIO
+TARIQ
 O, my dear lord,--
 LEON
 Nay, do not think I flatter;
@@ -2544,7 +2544,7 @@ As Vulcan's stithy. Give him heedful note;
 For I mine eyes will rivet to his face,
 And after we will both our judgments join
 In censure of his seeming.
-HORATIO
+TARIQ
 Well, my lord:
 If he steal aught the whilst this play is playing,
 And 'scape detecting, I will pay the theft.
@@ -2806,7 +2806,7 @@ KING CLAUDIUS
 Give me some light: away!
 All
 Lights, lights, lights!
-Exeunt all but LEON and HORATIO
+Exeunt all but LEON and TARIQ
 LEON
 Why, let the stricken deer go weep,
 The hart ungalled play;
@@ -2816,7 +2816,7 @@ Would not this, sir, and a forest of feathers-- if
 the rest of my fortunes turn Turk with me--with two
 Provincial roses on my razed shoes, get me a
 fellowship in a cry of players, sir?
-HORATIO
+TARIQ
 Half a share.
 LEON
 A whole one, I.
@@ -2824,16 +2824,16 @@ For thou dost know, O Damon dear,
 This realm dismantled was
 Of Jove himself; and now reigns here
 A very, very--pajock.
-HORATIO
+TARIQ
 You might have rhymed.
 LEON
-O good Horatio, I'll take the ghost's word for a
+O good Tariq, I'll take the ghost's word for a
 thousand pound. Didst perceive?
-HORATIO
+TARIQ
 Very well, my lord.
 LEON
 Upon the talk of the poisoning?
-HORATIO
+TARIQ
 I did very well note him.
 LEON
 Ah, ha! Come, some music! come, the recorders!
@@ -3723,7 +3723,7 @@ To hide the slain? O, from this time forth,
 My thoughts be bloody, or be nothing worth!
 Exit
 SCENE V. Elsinore. A room in the castle.
-Enter QUEEN GERTRUDE, HORATIO, and a Gentleman
+Enter QUEEN GERTRUDE, TARIQ, and a Gentleman
 QUEEN GERTRUDE
 I will not speak with her.
 Gentleman
@@ -3743,17 +3743,17 @@ Which, as her winks, and nods, and gestures
 yield them,
 Indeed would make one think there might be thought,
 Though nothing sure, yet much unhappily.
-HORATIO
+TARIQ
 'Twere good she were spoken with; for she may strew
 Dangerous conjectures in ill-breeding minds.
 QUEEN GERTRUDE
 Let her come in.
-Exit HORATIO
+Exit TARIQ
 To my sick soul, as sin's true nature is,
 Each toy seems prologue to some great amiss:
 So full of artless jealousy is guilt,
 It spills itself in fearing to be spilt.
-Re-enter HORATIO, with OPHELIA
+Re-enter TARIQ, with OPHELIA
 OPHELIA
 Where is the beauteous majesty of Denmark?
 QUEEN GERTRUDE
@@ -3833,7 +3833,7 @@ Exit
 KING CLAUDIUS
 Follow her close; give her good watch,
 I pray you.
-Exit HORATIO
+Exit TARIQ
 O, this is the poison of deep grief; it springs
 All from her father's death. O Gertrude, Gertrude,
 When sorrows come, they come not single spies
@@ -4042,12 +4042,12 @@ And where the offence is let the great axe fall.
 I pray you, go with me.
 Exeunt
 SCENE VI. Another room in the castle.
-Enter HORATIO and a Servant
-HORATIO
+Enter TARIQ and a Servant
+TARIQ
 What are they that would speak with me?
 Servant
 Sailors, sir: they say they have letters for you.
-HORATIO
+TARIQ
 Let them come in.
 Exit Servant
 I do not know from what part of the world
@@ -4055,15 +4055,15 @@ I should be greeted, if not from Lord Leon.
 Enter Sailors
 First Sailor
 God bless you, sir.
-HORATIO
+TARIQ
 Let him bless thee too.
 First Sailor
 He shall, sir, an't please him. There's a letter for
 you, sir; it comes from the ambassador that was
-bound for England; if your name be Horatio, as I am
+bound for England; if your name be Tariq, as I am
 let to know it is.
-HORATIO
-[Reads] 'Horatio, when thou shalt have overlooked
+TARIQ
+[Reads] 'Tariq, when thou shalt have overlooked
 this, give these fellows some means to the king:
 they have letters for him. Ere we were two days old
 at sea, a pirate of very warlike appointment gave us
@@ -4427,7 +4427,7 @@ First Clown
 To't.
 Second Clown
 Mass, I cannot tell.
-Enter LEON and HORATIO, at a distance
+Enter LEON and TARIQ, at a distance
 First Clown
 Cudgel thy brains no more about it, for your dull
 ass will not mend his pace with beating; and, when
@@ -4444,7 +4444,7 @@ O, methought, there was nothing meet.
 LEON
 Has this fellow no feeling of his business, that he
 sings at grave-making?
-HORATIO
+TARIQ
 Custom hath made it in him a property of easiness.
 LEON
 'Tis e'en so: the hand of little employment hath
@@ -4463,14 +4463,14 @@ Cain's jaw-bone, that did the first murder! It
 might be the pate of a politician, which this ass
 now o'er-reaches; one that would circumvent God,
 might it not?
-HORATIO
+TARIQ
 It might, my lord.
 LEON
 Or of a courtier; which could say 'Good morrow,
 sweet lord! How dost thou, good lord?' This might
 be my lord such-a-one, that praised my lord
 such-a-one's horse, when he meant to beg it; might it not?
-HORATIO
+TARIQ
 Ay, my lord.
 LEON
 Why, e'en so: and now my Lady Worm's; chapless, and
@@ -4501,11 +4501,11 @@ no more of his purchases, and double ones too, than
 the length and breadth of a pair of indentures? The
 very conveyances of his lands will hardly lie in
 this box; and must the inheritor himself have no more, ha?
-HORATIO
+TARIQ
 Not a jot more, my lord.
 LEON
 Is not parchment made of sheepskins?
-HORATIO
+TARIQ
 Ay, my lord, and of calf-skins too.
 LEON
 They are sheep and calves which seek out assurance
@@ -4542,7 +4542,7 @@ One that was a woman, sir; but, rest her soul, she's dead.
 LEON
 How absolute the knave is! we must speak by the
 card, or equivocation will undo us. By the Lord,
-Horatio, these three years I have taken a note of
+Tariq, these three years I have taken a note of
 it; the age is grown so picked that the toe of the
 peasant comes so near the heel of the courtier, he
 gaffs his kibe. How long hast thou been a
@@ -4611,7 +4611,7 @@ E'en that.
 LEON
 Let me see.
 Takes the skull
-Alas, poor Yorick! I knew him, Horatio: a fellow
+Alas, poor Yorick! I knew him, Tariq: a fellow
 of infinite jest, of most excellent fancy: he hath
 borne me on his back a thousand times; and now, how
 abhorred in my imagination it is! my gorge rims at
@@ -4622,25 +4622,25 @@ that were wont to set the table on a roar? Not one
 now, to mock your own grinning? quite chap-fallen?
 Now get you to my lady's chamber, and tell her, let
 her paint an inch thick, to this favour she must
-come; make her laugh at that. Prithee, Horatio, tell
+come; make her laugh at that. Prithee, Tariq, tell
 me one thing.
-HORATIO
+TARIQ
 What's that, my lord?
 LEON
 Dost thou think Alexander looked o' this fashion i'
 the earth?
-HORATIO
+TARIQ
 E'en so.
 LEON
 And smelt so? pah!
 Puts down the skull
-HORATIO
+TARIQ
 E'en so, my lord.
 LEON
-To what base uses we may return, Horatio! Why may
+To what base uses we may return, Tariq! Why may
 not imagination trace the noble dust of Alexander,
 till he find it stopping a bung-hole?
-HORATIO
+TARIQ
 'Twere to consider too curiously, to consider so.
 LEON
 No, faith, not a jot; but to follow him thither with
@@ -4660,7 +4660,7 @@ And with such maimed rites? This doth betoken
 The corse they follow did with desperate hand
 Fordo its own life: 'twas of some estate.
 Couch we awhile, and mark.
-Retiring with HORATIO
+Retiring with TARIQ
 LAERTES
 What ceremony else?
 LEON
@@ -4732,7 +4732,7 @@ QUEEN GERTRUDE
 Leon, Leon!
 All
 Gentlemen,--
-HORATIO
+TARIQ
 Good my lord, be quiet.
 The Attendants part them, and they come out of the grave
 LEON
@@ -4774,8 +4774,8 @@ Let Hercules himself do what he may,
 The cat will mew and dog will have his day.
 Exit
 KING CLAUDIUS
-I pray you, good Horatio, wait upon him.
-Exit HORATIO
+I pray you, good Tariq, wait upon him.
+Exit TARIQ
 To LAERTES
 Strengthen your patience in our last night's speech;
 We'll put the matter to the present push.
@@ -4785,11 +4785,11 @@ An hour of quiet shortly shall we see;
 Till then, in patience our proceeding be.
 Exeunt
 SCENE II. A hall in the castle.
-Enter LEON and HORATIO
+Enter LEON and TARIQ
 LEON
 So much for this, sir: now shall you see the other;
 You do remember all the circumstance?
-HORATIO
+TARIQ
 Remember it, my lord?
 LEON
 Sir, in my heart there was a kind of fighting,
@@ -4800,7 +4800,7 @@ Our indiscretion sometimes serves us well,
 When our deep plots do pall: and that should teach us
 There's a divinity that shapes our ends,
 Rough-hew them how we will,--
-HORATIO
+TARIQ
 That is most certain.
 LEON
 Up from my cabin,
@@ -4809,7 +4809,7 @@ Groped I to find out them; had my desire.
 Finger'd their packet, and in fine withdrew
 To mine own room again; making so bold,
 My fears forgetting manners, to unseal
-Their grand commission; where I found, Horatio,--
+Their grand commission; where I found, Tariq,--
 O royal knavery!--an exact command,
 Larded with many several sorts of reasons
 Importing Denmark's health and England's too,
@@ -4817,12 +4817,12 @@ With, ho! such bugs and goblins in my life,
 That, on the supervise, no leisure bated,
 No, not to stay the grinding of the axe,
 My head should be struck off.
-HORATIO
+TARIQ
 Is't possible?
 LEON
 Here's the commission: read it at more leisure.
 But wilt thou hear me how I did proceed?
-HORATIO
+TARIQ
 I beseech you.
 LEON
 Being thus be-netted round with villanies,--
@@ -4834,7 +4834,7 @@ A baseness to write fair and labour'd much
 How to forget that learning, but, sir, now
 It did me yeoman's service: wilt thou know
 The effect of what I wrote?
-HORATIO
+TARIQ
 Ay, good my lord.
 LEON
 An earnest conjuration from the king,
@@ -4847,7 +4847,7 @@ That, on the view and knowing of these contents,
 Without debatement further, more or less,
 He should the bearers put to sudden death,
 Not shriving-time allow'd.
-HORATIO
+TARIQ
 How was this seal'd?
 LEON
 Why, even in that was heaven ordinant.
@@ -4858,7 +4858,7 @@ Subscribed it, gave't the impression, placed it safely,
 The changeling never known. Now, the next day
 Was our sea-fight; and what to this was sequent
 Thou know'st already.
-HORATIO
+TARIQ
 So Guildenstern and Rosencrantz go to't.
 LEON
 Why, man, they did make love to this employment;
@@ -4867,7 +4867,7 @@ Does by their own insinuation grow:
 'Tis dangerous when the baser nature comes
 Between the pass and fell incensed points
 Of mighty opposites.
-HORATIO
+TARIQ
 Why, what a king is this!
 LEON
 Does it not, think'st thee, stand me now upon--
@@ -4878,26 +4878,26 @@ And with such cozenage--is't not perfect conscience,
 To quit him with this arm? and is't not to be damn'd,
 To let this canker of our nature come
 In further evil?
-HORATIO
+TARIQ
 It must be shortly known to him from England
 What is the issue of the business there.
 LEON
 It will be short: the interim is mine;
 And a man's life's no more than to say 'One.'
-But I am very sorry, good Horatio,
+But I am very sorry, good Tariq,
 That to Laertes I forgot myself;
 For, by the image of my cause, I see
 The portraiture of his: I'll court his favours.
 But, sure, the bravery of his grief did put me
 Into a towering passion.
-HORATIO
+TARIQ
 Peace! who comes here?
 Enter OSRIC
 OSRIC
 Your lordship is right welcome back to Denmark.
 LEON
 I humbly thank you, sir. Dost know this water-fly?
-HORATIO
+TARIQ
 No, my good lord.
 LEON
 Thy state is the more gracious; for 'tis a vice to
@@ -4954,14 +4954,14 @@ The concernancy, sir? why do we wrap the gentleman
 in our more rawer breath?
 OSRIC
 Sir?
-HORATIO
+TARIQ
 Is't not possible to understand in another tongue?
 You will do't, sir, really.
 LEON
 What imports the nomination of this gentleman?
 OSRIC
 Of Laertes?
-HORATIO
+TARIQ
 His purse is empty already; all's golden words are spent.
 LEON
 Of him, sir.
@@ -4995,7 +4995,7 @@ responsive to the hilts, most delicate carriages,
 and of very liberal conceit.
 LEON
 What call you the carriages?
-HORATIO
+TARIQ
 I knew you must be edified by the margent ere you had done.
 OSRIC
 The carriages, sir, are the hangers.
@@ -5033,7 +5033,7 @@ Yours, yours.
 Exit OSRIC
 He does well to commend it himself; there are no
 tongues else for's turn.
-HORATIO
+TARIQ
 This lapwing runs away with the shell on his head.
 LEON
 He did comply with his dug, before he sucked it.
@@ -5063,19 +5063,19 @@ entertainment to Laertes before you fall to play.
 LEON
 She well instructs me.
 Exit Lord
-HORATIO
+TARIQ
 You will lose this wager, my lord.
 LEON
 I do not think so: since he went into France, I
 have been in continual practise: I shall win at the
 odds. But thou wouldst not think how ill all's here
 about my heart: but it is no matter.
-HORATIO
+TARIQ
 Nay, good my lord,--
 LEON
 It is but foolery; but it is such a kind of
 gain-giving, as would perhaps trouble a woman.
-HORATIO
+TARIQ
 If your mind dislike any thing, obey it: I will
 forestall their repair hither, and say you are not
 fit.
@@ -5233,7 +5233,7 @@ Nay, come, again.
 QUEEN GERTRUDE falls
 OSRIC
 Look to the queen there, ho!
-HORATIO
+TARIQ
 They bleed on both sides. How is it, my lord?
 OSRIC
 How is't, Laertes?
@@ -5282,22 +5282,22 @@ Nor thine on me.
 Dies
 LEON
 Heaven make thee free of it! I follow thee.
-I am dead, Horatio. Wretched queen, adieu!
+I am dead, Tariq. Wretched queen, adieu!
 You that look pale and tremble at this chance,
 That are but mutes or audience to this act,
 Had I but time--as this fell sergeant, death,
 Is strict in his arrest--O, I could tell you--
-But let it be. Horatio, I am dead;
+But let it be. Tariq, I am dead;
 Thou livest; report me and my cause aright
 To the unsatisfied.
-HORATIO
+TARIQ
 Never believe it:
 I am more an antique Roman than a Dane:
 Here's yet some liquor left.
 LEON
 As thou'rt a man,
 Give me the cup: let go; by heaven, I'll have't.
-O good Horatio, what a wounded name,
+O good Tariq, what a wounded name,
 Things standing thus unknown, shall live behind me!
 If thou didst ever hold me in thy heart
 Absent thee from felicity awhile,
@@ -5310,7 +5310,7 @@ Young Fortinbras, with conquest come from Poland,
 To the ambassadors of England gives
 This warlike volley.
 LEON
-O, I die, Horatio;
+O, I die, Tariq;
 The potent poison quite o'er-crows my spirit:
 I cannot live to hear the news from England;
 But I do prophesy the election lights
@@ -5318,7 +5318,7 @@ On Fortinbras: he has my dying voice;
 So tell him, with the occurrents, more and less,
 Which have solicited. The rest is silence.
 Dies
-HORATIO
+TARIQ
 Now cracks a noble heart. Good night sweet prince:
 And flights of angels sing thee to thy rest!
 Why does the drum come hither?
@@ -5326,7 +5326,7 @@ March within
 Enter FORTINBRAS, the English Ambassadors, and others
 PRINCE FORTINBRAS
 Where is this sight?
-HORATIO
+TARIQ
 What is it ye would see?
 If aught of woe or wonder, cease your search.
 PRINCE FORTINBRAS
@@ -5341,7 +5341,7 @@ The ears are senseless that should give us hearing,
 To tell him his commandment is fulfill'd,
 That Rosencrantz and Guildenstern are dead:
 Where should we have our thanks?
-HORATIO
+TARIQ
 Not from his mouth,
 Had it the ability of life to thank you:
 He never gave commandment for their death.
@@ -5363,7 +5363,7 @@ And call the noblest to the audience.
 For me, with sorrow I embrace my fortune:
 I have some rights of memory in this kingdom,
 Which now to claim my vantage doth invite me.
-HORATIO
+TARIQ
 Of that I shall have also cause to speak,
 And from his mouth whose voice will draw on more;
 But let this same be presently perform'd,
@@ -5380,6 +5380,5 @@ Take up the bodies: such a sight as this
 Becomes the field, but here shows much amiss.
 Go, bid the soldiers shoot.
 A dead march. Exeunt, bearing off the dead bodies; after which a peal of ordnance is shot off
-
 
 

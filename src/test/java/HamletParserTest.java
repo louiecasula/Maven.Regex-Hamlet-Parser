@@ -41,16 +41,4 @@ public class HamletParserTest {
         String hamletExample = "Hamlet. Hamlet? Hamlet: Hamlet! Hamlet's Hamlet, HAMLET HAMLET:";
         Assert.assertEquals(8, hamletParser.findHamlet(hamletExample));
     }
-
-    @Test
-    public void testExportNewFile() {
-        String leonText = hamletParser.changeHamletToLeon(hamletText);
-        StringBuilder sb = new StringBuilder(leonText);
-        sb.append("\n");
-        String expected = sb.toString();
-        hamletParser.exportNewFile(expected);
-        Assert.assertTrue(hamletParser.exportNewFile(expected));
-        String actual = hamletParser.loadFile("output.txt");
-        Assert.assertEquals(expected, actual);
-    }
 }

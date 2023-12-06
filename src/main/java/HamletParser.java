@@ -11,7 +11,6 @@ import java.util.regex.Pattern;
 public class HamletParser {
 
     private String hamletData;
-    private String newData;
 
     public HamletParser(){
         this.hamletData = loadFile("hamlet.txt");
@@ -80,7 +79,7 @@ public class HamletParser {
         return count;
     }
 
-    public boolean exportNewFile(String exportString){ // Should I make a MainApplication?
+    public boolean exportNewFile(String exportString){
         try{
             PrintWriter fileOut = new PrintWriter("src/main/resources/output.txt");
             fileOut.println(exportString);
@@ -91,5 +90,16 @@ public class HamletParser {
             return false;
         }
         return true;
+    }
+
+    public static void main(String[] args){
+        HamletParser hp = new HamletParser();
+        String hamletText = hp.getHamletData();
+
+        String leonText = hp.changeHamletToLeon(hamletText);
+        hp.exportNewFile(leonText);
+
+        String leonAndTariqText = hp.changeHoratioToTariq(leonText);
+        hp.exportNewFile(leonAndTariqText);
     }
 }
